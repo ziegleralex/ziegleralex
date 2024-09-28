@@ -34,5 +34,6 @@
 <br>
 
 
-![ziegleralex's Stats](https://github-readme-stats.vercel.app/api?username=ziegleralex&theme=dracula&show_icons=true&hide_border=false&count_private=false)
-![ziegleralex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziegleralex&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+<p align="center">![ziegleralex's Stats](https://github-readme-stats.vercel.app/api?username=ziegleralex&theme=dracula&show_icons=true&hide_border=false&count_private=false)</p>
+
+<p align="center">![ziegleralex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziegleralex&theme=dracula&show_icons=true&hide_border=false&layout=compact)</p>

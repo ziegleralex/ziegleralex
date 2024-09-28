@@ -18,12 +18,12 @@
     <b>📖 Activites :</b>
     <br/>
 
-<p>Placeholder
+<!--<p>Placeholder
 <a href="insert apple link"> 
 <img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
   <a href="insert google store link">
 <img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
-</p>
+</p>-->
 
 
 
@@ -34,6 +34,4 @@
 <br>
 
 
-<p align="center">![ziegleralex's Stats](https://github-readme-stats.vercel.app/api?username=ziegleralex&theme=dracula&show_icons=true&hide_border=false&count_private=false)</p>
-
-<p align="center">![ziegleralex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziegleralex&theme=dracula&show_icons=true&hide_border=false&layout=compact)</p>
+![ziegleralex's Stats](https://github-readme-stats.vercel.app/api?username=ziegleralex&theme=dracula&show_icons=true&hide_border=false&count_private=false)

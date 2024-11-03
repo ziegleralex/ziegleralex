@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  <p align="center">Hi, there!<br/>I'm Alex, a university student.</p>
+  <p align="center">Hi, there!<br/>I'm Alexander, a computer science student.</p>
 <br>
 <details align="center">
   <summary> 

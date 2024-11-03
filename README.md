@@ -1,37 +1,21 @@
-### Hi there 👋
-
-  <p align="center">Hi, there!<br/>I'm Alexander, a computer science student.</p>
-<br>
+<h3 align="center"><samp>Hello! I am <b></b>Alexander Ziegler</b></samp></h3>
+<p align="center"><br>
+  <samp>
+    「 B. Sc. Computer Science Student @ <b>OTH Regensburg</b> 」<br>
+  </samp>
+</p>
 <details align="center">
-  <summary> 
-    <b> Things to know about me! </b> <i>(click to expand!)</i> 
-  </summary>
-  <hr/>
-  <p>
-    <b>⚡ Studying :</b>
-    <br/>  <br/>
-    <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></code>
-    <code><img height="20" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"></code>
-    <code><img height="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>
-    <code><img height="20" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
-    <!--<br/><br/><br/>-->
-    <!--<b>📖 Activites :</b>-->
-    <br/>
-
-<!--<p>Placeholder
-<a href="insert apple link"> 
-<img height="17"  src="https://img.shields.io/badge/ios-F5F5F5?style=for-the-badge&logo=ios&logoColor=black"></a>
-  <a href="insert google store link">
-<img height="17" src="https://img.shields.io/badge/android-17594A?style=for-the-badge&logo=android&logoColor=white"> </a>
-</p>-->
-
-
-
-  
-  
-<hr/>
+   <summary> <samp>&#9776; Details</samp></summary>
+   <p align="center">
+     <br>
+      <a href="https://github.com/ziegleralex?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
+      <a href="https://github.com/ziegleralex?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
+      <a href="https://github.com/ziegleralex?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
+      <a href="https://github.com/ziegleralex?tab=repositories&language=c" target="_blank"><img alt="C" src="https://img.shields.io/badge/-C-375eab?style=flat-square&logo=C&logoColor=white"></a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ziegleralex&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
+     <a href="https://github.com/ziegleralex" target="_blank"><img alt="ziegleralex" src="https://badges.pufler.dev/visits/ziegleralex/ziegleralex?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+     <a href="https://github.com/ziegleralex/ziegleralex" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ziegleralex/ziegleralex?label=profile%20updated&style=flat-square"></a>
+  </samp>
+  </p>
 </details>
-<br>
-
-
-![ziegleralex's Stats](https://github-readme-stats.vercel.app/api?username=ziegleralex&theme=dracula&show_icons=true&hide_border=false&count_private=false)
